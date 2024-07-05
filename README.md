@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mhaley-jsfun.mhaley-jsfun">
 
 <h3 align="center">
-  Welcome to Matthew Haley's profile!
+  Welcome to Paul Silva's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
